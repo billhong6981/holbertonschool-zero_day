@@ -26,3 +26,5 @@ How to quit vi
 
 100-move_to_line---How do you move the cursor to line 32?
 
+101-delete_line---How do you delete the current and previous line at the same time?
+
