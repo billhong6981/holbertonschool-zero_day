@@ -18,3 +18,7 @@ How to quit vi
 
 3-undoing---What is the command to undo what you just did?
 
+4-exiting---How do you quit vi even though latest changes have not been saved for this vi call?
+
+5-beginning_line---How do you move the cursor to the start of the current line?
+
