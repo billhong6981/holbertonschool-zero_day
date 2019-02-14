@@ -8,6 +8,7 @@ EMACS:
 4-searching: c-s or M-s o
 5-undoing: c-/
 6-quitting: c-g
+100-tetris
 
 
 # holberton-system_engineering-devops
