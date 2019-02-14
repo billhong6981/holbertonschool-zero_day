@@ -12,3 +12,5 @@ How to quit vi
 
 0-inserting---What is the command to insert text before the cursor?
 
+1-cutting---What is the command to cut the current line? (yank, cut)
+
