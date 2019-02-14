@@ -16,3 +16,5 @@ How to quit vi
 
 2-pasting---What is the command to paste the lines in the buffer into the text after the current line?
 
+3-undoing---What is the command to undo what you just did?
+
