@@ -24,3 +24,5 @@ How to quit vi
 
 6-end_line---How do you move the cursor to the end of the line?
 
+100-move_to_line---How do you move the cursor to line 32?
+
