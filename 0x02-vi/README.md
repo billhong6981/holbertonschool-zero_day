@@ -22,3 +22,5 @@ How to quit vi
 
 5-beginning_line---How do you move the cursor to the start of the current line?
 
+6-end_line---How do you move the cursor to the end of the line?
+
