@@ -14,3 +14,5 @@ How to quit vi
 
 1-cutting---What is the command to cut the current line? (yank, cut)
 
+2-pasting---What is the command to paste the lines in the buffer into the text after the current line?
+
